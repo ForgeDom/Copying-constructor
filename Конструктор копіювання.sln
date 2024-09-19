@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Конструктор копіювання", "Конструктор копіювання.vcxproj", "{B1B07527-8D03-46D5-8456-B66F5CD5825F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Debug|x64.ActiveCfg = Debug|x64
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Debug|x64.Build.0 = Debug|x64
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Debug|x86.Build.0 = Debug|Win32
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Release|x64.ActiveCfg = Release|x64
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Release|x64.Build.0 = Release|x64
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Release|x86.ActiveCfg = Release|Win32
+		{B1B07527-8D03-46D5-8456-B66F5CD5825F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42175CB4-0316-42CC-9A15-1FB19314D659}
+	EndGlobalSection
+EndGlobal
